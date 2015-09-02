@@ -13,7 +13,7 @@ setup(
     keywords="schema json validation",
     url="http://github.com/halst/schema",
     py_modules=['schema'],
-    long_description=open('README.rst').read(),
+    #long_description=open('README.rst').read(),
     classifiers=[
         "Development Status :: 3 - Alpha",
         "Topic :: Utilities",
